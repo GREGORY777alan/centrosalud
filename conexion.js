@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+//hola
 //mongoose.connect("mongodb://127.0.0.1:27017/centro_chuqui").then(() => {
 
 mongoose.connect("mongodb+srv://pruebasgreg12:XqWCS7l8q7wQwq6l@greg.gjszyys.mongodb.net/centro_chuqui").then(() => {
